@@ -1,0 +1,13 @@
+*.pyc
+*/__pycache__
+*/*/__pycache__
+*/migrations
+*/*/migrations
+*.pyc
+db.sqlite3
+temptags/__pycache__/*
+templatetags/__pycache__/*
+debug.log
+my.cnf
+TwitterClone/settings.py
+db.sqlite3
